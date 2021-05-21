@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jobsick/static/css/main.f0a348f5.chunk.css",
+    "main.js": "/jobsick/static/js/main.d1425868.chunk.js",
+    "main.js.map": "/jobsick/static/js/main.d1425868.chunk.js.map",
+    "runtime-main.js": "/jobsick/static/js/runtime-main.54225d10.js",
+    "runtime-main.js.map": "/jobsick/static/js/runtime-main.54225d10.js.map",
+    "static/js/2.a70f704b.chunk.js": "/jobsick/static/js/2.a70f704b.chunk.js",
+    "static/js/2.a70f704b.chunk.js.map": "/jobsick/static/js/2.a70f704b.chunk.js.map",
+    "index.html": "/jobsick/index.html",
+    "static/css/main.f0a348f5.chunk.css.map": "/jobsick/static/css/main.f0a348f5.chunk.css.map",
+    "static/js/2.a70f704b.chunk.js.LICENSE.txt": "/jobsick/static/js/2.a70f704b.chunk.js.LICENSE.txt",
+    "static/media/bgimage.11edd976.png": "/jobsick/static/media/bgimage.11edd976.png",
+    "static/media/image1.100cab28.jpeg": "/jobsick/static/media/image1.100cab28.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54225d10.js",
+    "static/js/2.a70f704b.chunk.js",
+    "static/css/main.f0a348f5.chunk.css",
+    "static/js/main.d1425868.chunk.js"
+  ]
+}
