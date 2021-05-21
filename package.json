@@ -2,7 +2,7 @@
   "name": "job-web-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://htke1.github.io/JobSeek",
+  "homepage": "http://htke1.github.io/jobsick",
   "dependencies": {
     "@firebase/storage": "^0.5.2",
     "@material-ui/icons": "^4.11.2",
